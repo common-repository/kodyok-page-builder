@@ -1,0 +1,36 @@
+{
+    "sections" : {
+        "blank_01" : {
+            "name": "Blank",
+            "file": "blank"
+        },
+        "intro_01" : {
+            "name": "Intro with background image",
+            "file": "intro_with_background_image"
+        },
+        "slider_01" : {
+            "name": "Slider",
+            "file": "slider"
+        },
+        "content_01" : {
+            "name": "Services",
+            "file": "services"
+        },
+        "content_02" : {
+            "name": "Portfolio",
+            "file": "portfolio"
+        },
+        "dynamic_01" : {
+            "name": "Blog",
+            "file": "blog"
+        },
+        "content_03" : {
+            "name": "Team",
+            "file": "team"
+        },
+        "form_01" : {
+            "name": "Contact",
+            "file": "contact"
+        }
+    }
+}
